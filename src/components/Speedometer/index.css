@@ -1,0 +1,33 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.bg {
+  background-color: #07080c;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+img {
+  width: 500px;
+}
+p {
+  color: #cbd5e1;
+}
+button {
+  color: #cbd5e1;
+  padding: 8px;
+  border-radius: 4px;
+  margin-right: 12px;
+}
+.btn-1 {
+  background-color: #0b69ff;
+  border: 2px solid #0b69ff;
+}
+.btn-2 {
+  background-color: transparent;
+  border: 2px solid #94a3b8;
+}
